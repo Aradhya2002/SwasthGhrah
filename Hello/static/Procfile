@@ -1,0 +1,1 @@
+web: gunicorn SwashtGhrah.wsgi --log-file
